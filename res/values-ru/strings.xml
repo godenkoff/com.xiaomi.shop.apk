@@ -30,7 +30,7 @@
      <string name="account_my_change_list">Обмен</string>
      <string name="account_my_end_list">Закрытые заказы</string>
      <string name="account_my_list">Мои заказы</string>
-     <string name="account_my_order_deliver">Подробности логистики</string>
+     <string name="account_my_order_deliver">О доставке</string>
      <string name="account_my_order_detail">Детали заказа</string>
      <string name="account_my_order_list">История заказов</string>
      <string name="account_my_policy_list">Условия обслужививания</string>
@@ -43,8 +43,8 @@
      <string name="account_order_edit_text">Изменение заказа</string>
      <string name="account_paid_service">Страхование</string>
      <string name="account_policy_text">政策</string>
-     <string name="account_query_product">Подлинность</string>
-     <string name="account_query_repair_progress">查询维修进度</string>
+     <string name="account_query_product">Подлинность товара</string>
+     <string name="account_query_repair_progress">График тех.обслуживания</string>
      <string name="account_recharge">Пополнение счёта</string>
      <string name="account_recharge_detail">充值单详情</string>
      <string name="account_repair_progress">Состояние ремонта</string>
@@ -61,7 +61,7 @@
      <string name="account_service_province_list">Провинции</string>
      <string name="account_service_station">Сервисные центры</string>
      <string name="account_wait_pay_list">Ожидающие оплаты</string>
-     <string name="account_waiting_review">Продукция, ожидающая оценки</string>
+     <string name="account_waiting_review">Продукция ожидающая оценки</string>
      <string name="account_xiaomi_gold">米币</string>
      <string name="acquaintance_more">Подробнее</string>
      <string name="act_coupon">[Купон]</string>
@@ -104,7 +104,7 @@
      <string name="autologin_ask_cancel">Нет</string>
      <string name="autologin_ask_ok">Да</string>
      <string name="autologin_no_login">Нет</string>
-     <string name="autologin_summary">Найден используемый Mi Аккаунт &#187;"%1$s"&#171;，использовать его для входа в Mi Mall?</string>
+     <string name="autologin_summary">Найден используемый Mi Аккаунт &#171;%1$s&#187;，использовать его для входа в Mi Mall?</string>
      <string name="autologin_title">Аккаунт для входа в Mi Mall</string>
      <string name="back_to_detail">Назад</string>
      <string name="bad_authentication">Неверный логин или пароль</string>
@@ -219,18 +219,18 @@
      <string name="coupon_input_empty">Купон не может быть пустым</string>
      <string name="coupon_input_prompt">  Введите код купона</string>
      <string name="coupon_input_titile">У меня есть купон</string>
-     <string name="coupon_list_empty">В настоящее время у Вас нет купонов</string>
-     <string name="coupon_list_title">Купон</string>
+     <string name="coupon_list_empty">К сожалению, в настоящее время у вас нет купонов</string>
+     <string name="coupon_list_title">Ваши купоны</string>
      <string name="coupon_time_format">d-MM-yyyy HH:mm</string>
-     <string name="coupon_type_discount">折扣</string>
-     <string name="coupon_type_present">礼物</string>
+     <string name="coupon_type_discount">скидка</string>
+     <string name="coupon_type_present">подарок</string>
      <string name="coupon_use_title">Использовать купон</string>
      <string name="coupon_validate_prompt">Введите действующий код купона</string>
      <string name="currency_unit_template">Итого %1$s元</string>
      <string name="current_phone_num">本机号码</string>
      <string name="data_error">Ошибка данных. Повторите попытку позже.</string>
      <string name="del_address_dialog_ok">删除</string>
-     <string name="del_address_dialog_title">删除地址</string>
+     <string name="del_address_dialog_title">*Удалить адрес</string>
      <string name="del_favorite">Отменить избранное</string>
      <string name="deliver_title_info">Счет-фактура %s</string>
      <string name="deliver_view_orderid">Номер заказа：%s</string>
@@ -377,10 +377,10 @@
      <string name="kuwan_title">酷玩帮</string>
      <string name="kuwan_today">今天</string>
      <string name="kuwan_yesterday">昨天</string>
-     <string name="label_address">Город*:</string>
-     <string name="label_address_consignee">Получатель*:</string>
-     <string name="label_address_tel">Телефон*:</string>
-     <string name="label_address_zipcode">Индекс*:</string>
+     <string name="label_address">Город:</string>
+     <string name="label_address_consignee">Получатель:</string>
+     <string name="label_address_tel">Телефон:</string>
+     <string name="label_address_zipcode">Индекс:</string>
      <string name="license_host_unreachable">您的手机未连接到数据服务。要立即查看此信息，请通过连接到互联网的任意计算机访问 %s。</string>
      <string name="loading">读取中…</string>
      <string name="login">Войти</string>
@@ -549,7 +549,7 @@
      <string name="my_location">Мой город</string>
      <string name="nearby_age">%1$s岁</string>
      <string name="nearby_bbs_name">论坛昵称:</string>
-     <string name="nearby_btn_text">同意并查看</string>
+     <string name="nearby_btn_text">Согласиться и просмотреть</string>
      <string name="nearby_clear_alert_message">清除位置信息后，你无法查看身边达人用户</string>
      <string name="nearby_clear_alert_ok">清除</string>
      <string name="nearby_clear_alert_title">清除位置信息</string>
@@ -624,17 +624,17 @@
      <string name="order_edit_type_title">Изменить информацию о заказе</string>
      <string name="order_erification_code">Введите проверочный СМС-код</string>
      <string name="order_err">Состояния заказа проверить не удалось</string>
-     <string name="order_error_prompt">服务异常，请稍后重试</string>
-     <string name="order_express_empty">Информация о доставке отсутствует, проверьте позже.</string>
-     <string name="order_express_info">Логистическая информация:</string>
+     <string name="order_error_prompt">Услуга не доступна, повторите попытку позже</string>
+     <string name="order_express_empty">Данные о доставке не найдены, проверьте позже.</string>
+     <string name="order_express_info">Доставка:</string>
      <string name="order_express_list_empty">您没有在途的商品</string>
      <string name="order_express_sn_label">Трек-номер</string>
-     <string name="order_fee_subtotal_text">Сумма заказа: %1$s元  Скидки: %2$s元  Стоимость доставка: %3$s元</string>
+     <string name="order_fee_subtotal_text">Сумма заказа: %1$s元  Скидки: %2$s元  Стоимость доставки: %3$s元</string>
      <string name="order_information">Информация о заказе</string>
      <string name="order_invoice_download">*скачать</string>
-     <string name="order_invoice_title">Тип счета*:</string>
-     <string name="order_invoice_type_name">Счёт-фактура**:</string>
-     <string name="order_list_empty">У Вас нет заказов этого типа</string>
+     <string name="order_invoice_title">Тип счета:</string>
+     <string name="order_invoice_type_name">Счёт-фактура:</string>
+     <string name="order_list_empty">У вас нет заказов этого типа</string>
      <string name="order_list_fee">Стоимость:</string>
      <string name="order_list_rmb_word">元</string>
      <string name="order_list_rmb_yuan">元</string>
@@ -660,11 +660,10 @@
      <string name="order_submit_shipment">Доставка</string>
      <string name="order_table_payment">Информация о платеже</string>
      <string name="order_table_unpayment">Заказ размещён. Оплатите его.</string>
-     <string name="order_view_address">"%1$s %2$s %3$s %4$s
-%5$s %6$s"</string>
+     <string name="order_view_address">"%1$s %2$s %3$s %4$s %5$s %6$s"</string>
      <string name="order_view_address_label">Адрес доставки</string>
      <string name="order_view_address_time">%1$s</string>
-     <string name="order_view_address_time_label">Время получения</string>
+     <string name="order_view_address_time_label">Доставка в:</string>
      <string name="order_view_fee">Сумма:</string>
      <string name="order_view_id">Номер заказа</string>
      <string name="order_view_pickup_person_text">Информация о доставке</string>
@@ -709,10 +708,8 @@
      <string name="payment_order_pickup_text">自提信息：</string>
      <string name="payment_order_receive_invoice_type_text">发票信息：</string>
      <string name="payment_order_receive_time_text">送货时间：</string>
-     <string name="payment_order_shipment_format">"配送信息：%1$s
-%2$s　%3$s"</string>
-     <string name="payment_order_shipment_format1">"%1$s
-%2$s　%3$s"</string>
+     <string name="payment_order_shipment_format">"配送信息：%1$s　%2$s　%3$s"</string>
+     <string name="payment_order_shipment_format1">"%1$s　%2$s　%3$s"</string>
      <string name="payment_order_shipment_text">配送信息：</string>
      <string name="payment_success">Оплата успешно завершена</string>
      <string name="percent_sign">%</string>
@@ -755,7 +752,7 @@
      <string name="product_favorite_dialog_title_add">收藏此商品</string>
      <string name="product_favorite_push_dialog_content">检测到您当前未打开消息通知，将会无法收到我们发送的优惠信息。</string>
      <string name="product_favorite_push_dialog_ensure_btn_text">去设置</string>
-     <string name="product_info">Информация о товаре</string>
+     <string name="product_info">Основные позиции заказ</string>
      <string name="product_questions">Вопросы о продукте</string>
      <string name="product_shopping_cart">Корзина</string>
      <string name="publish_progress_message">发布中...</string>
@@ -768,7 +765,7 @@
      <string name="push_time_info_cross_day">%1$s:00 -  %2$s:00</string>
      <string name="push_time_info_long">Не беспокоить: %1$s:00 - %2$s:00</string>
      <string name="push_time_info_long_cross_day">Не беспокоить: с %1$s:00 - до %2$s:00</string>
-     <string name="push_time_title">Отключить уведомления с</string>
+     <string name="push_time_title">Отключать уведомления с</string>
      <string name="qa">参数及提问</string>
      <string name="qa_detail">提问详情</string>
      <string name="quick_login_step2_title">小米登录保护</string>
@@ -841,8 +838,8 @@
      <string name="reg_success_summary">"您的小米帐户密保手机是
 %1$s
 用于登录和找回密码"</string>
-     <string name="reg_type_email">用邮箱注册</string>
-     <string name="reg_type_phone">用手机号码注册（推荐）</string>
+     <string name="reg_type_email">Регистрация по е-mail</string>
+     <string name="reg_type_phone">Регистрация по номеру телефона (рекомендуется)</string>
      <string name="reg_using_other_phone_number_prompt">您注册的手机号为</string>
      <string name="reg_via_sms_alert">激活帐号会发送一条普通短信，资费由运营商收取</string>
      <string name="reging">正在注册，请稍候…</string>
@@ -871,10 +868,10 @@
      <string name="repair_progress_detail_title">查询结果</string>
      <string name="repair_progress_detail_update_time">处理时间</string>
      <string name="repair_progress_imei">IMEI:</string>
-     <string name="repair_progress_input_imei">维修设备的IMEI</string>
-     <string name="repair_progress_input_tel">维修时留下的手机号码</string>
-     <string name="repair_progress_submit">Справка*</string>
-     <string name="repair_progress_tel">联系电话:</string>
+     <string name="repair_progress_input_imei">IMEI вашего устройства</string>
+     <string name="repair_progress_input_tel">Ваш номер телефона</string>
+     <string name="repair_progress_submit">Справка</string>
+     <string name="repair_progress_tel">Контакты:</string>
      <string name="repair_schedule_empty_tip">暂时没有维修进度</string>
      <string name="replace">Заменить это</string>
      <string name="reply">回复\u0009</string>
@@ -904,9 +901,9 @@
      <string name="reserve_type_text">Услуги</string>
      <string name="reserve_username_text1">Фамилия</string>
      <string name="reserve_username_text2">Имя</string>
-     <string name="results">个结果</string>
+     <string name="results">Результат</string>
      <string name="review_arrive_time">Время получения:</string>
-     <string name="review_list_empty">Оценка продукта не нужна</string>
+     <string name="review_list_empty">Товаров, нуждающихся в оценке и отзывах, не найдено</string>
      <string name="review_listitem_date_format" formatted="false">%Y-%m-%d</string>
      <string name="review_sell_price">Стоимость:%s元</string>
      <string name="review_submit">Отзыв</string>
@@ -938,7 +935,7 @@
      <string name="service_repair_schedule_title">维修进度：</string>
      <string name="service_station_title">授权服务网点</string>
      <string name="service_unavailiable">Не удалось подключиться к серверу. Повторите попытку позже.</string>
-     <string name="services">Опции</string>
+     <string name="services">*&#9788;</string>
      <string name="shake_add_failed">加入购物车失败，请稍后重试</string>
      <string name="shake_add_success">加入购物车成功，您可以查看您的购物车</string>
      <string name="shake_add_to_cart">将奖品加入购物车</string>
@@ -1007,7 +1004,7 @@
      <string name="tips_address_area">请选择配送范围</string>
      <string name="tips_address_city">Выберите город</string>
      <string name="tips_address_consignee">Введите имя получателя</string>
-     <string name="tips_address_district">Выберите регион</string>
+     <string name="tips_address_district">Выберите район</string>
      <string name="tips_address_location">Введите улицу</string>
      <string name="tips_address_province">Выберите провинцию</string>
      <string name="tips_address_tel">Введите номер телефона</string>
@@ -1030,7 +1027,7 @@
      <string name="tips_miphone_sales_record_vcode_null">验证码不可为空</string>
      <string name="tips_modified">Имеются несохраненные данные. Вы уверены, что хотите выйти?</string>
      <string name="title_checkout">Оформить</string>
-     <string name="title_login">Войти в Mi Аккаунт</string>
+     <string name="title_login">Авторизация в Mi Аккаунте</string>
      <string name="title_online_payment">Выберите способ оплаты</string>
      <string name="title_reg">Регистрация Mi Аккаунта</string>
      <string name="toast_added_favorite">Добавлено в избранное</string>
@@ -1067,21 +1064,21 @@
      <string name="user_agreement">Польз.cоглашение</string>
      <string name="user_agreement_p1">"При входе в аккаунт, вы соглашаетесь соблюдать условия использования Mi Аккаунта"</string>
      <string name="user_agreement_p2">Пользовательского соглашения</string>
-     <string name="user_agreement_p3">и</string>
+     <string name="user_agreement_p3"> и </string>
      <string name="user_agreement_p4">Политики конфиденциальности</string>
      <string name="user_agreement_p5">При регистрации, вам соглашаетесь соблюдать условия использования Mi Аккаунта</string>
-     <string name="user_agreement_p6">Принимаю условия использования Mi Аккаунта</string>
+     <string name="user_agreement_p6">Я принимаю условия использования Mi Аккаунта, </string>
      <string name="usercentral_fragment_chickensoup_default_text">Добро пожаловать в Mi Mall</string>
      <string name="usercentral_fragment_counter_express_tip_text">你有%d个待收货订单，快看看商品到哪了。</string>
      <string name="usercentral_fragment_counter_review_tip_text">你有%d个待评价商品，分享下使用感受吧。</string>
      <string name="usercentral_fragment_counter_unpay_tip_text">你有%d个待付款订单，请抓紧时间付款吧。</string>
-     <string name="usercentral_fragment_listheader_loginbtn_text">Авторизоваться*</string>
+     <string name="usercentral_fragment_listheader_loginbtn_text">Авторизоваться</string>
      <string name="usercentral_fragment_listheader_nologin_text">Не авторизован*</string>
      <string name="usercentral_fragment_listheader_pendingpayment_text">К оплате</string>
      <string name="usercentral_fragment_listheader_pendingreceipt_text">В пути</string>
      <string name="usercentral_fragment_listheader_pendingvaluation_text">Оценки</string>
      <string name="usercentral_fragment_listheader_timegreetings_text">%s，</string>
-     <string name="usercentral_fragment_listitem_setting_title_my_text">Прочая ниформация</string>
+     <string name="usercentral_fragment_listitem_setting_title_my_text">Прочая информация</string>
      <string name="usercentral_fragment_listitem_setting_title_order_text">Информация о заказах</string>
      <string name="usercentral_fragment_listitem_setting_title_setting_text">Параметры</string>
      <string name="usercentral_fragment_quit_btn_text">Выход из аккаунта</string>
