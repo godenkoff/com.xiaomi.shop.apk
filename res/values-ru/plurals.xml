@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="relativetime_in_num_days">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">завтра</item>
+    </plurals>
+    <plurals name="xx_people_reviewed">
+        <item quantity="other">%d отзывов</item>
+    </plurals>
+</resources>
