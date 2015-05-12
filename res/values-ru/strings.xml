@@ -211,7 +211,7 @@
      <string name="completed">Готово</string>
      <string name="confirm">Удалить*</string>
      <string name="conversation_edit_title_middle">已选择%s项</string>
-     <string name="copy_link">复制链接</string>
+     <string name="copy_link">Ссылкой</string>
      <string name="coupon_btn">Подтвердить использование</string>
      <string name="coupon_expired_template">Период использования купона%1$s %2$s</string>
      <string name="coupon_free_shipping">包邮</string>
@@ -304,14 +304,14 @@
      <string name="festival_forward_message">Поделитесь скриншотом (кнопка меню + громкость вниз) с друзьями</string>
      <string name="festival_launch_mishop">Перейти в Mi Mall</string>
      <string name="filter">Фильтр</string>
-     <string name="filter_comment">Популярные</string>
+     <string name="filter_comment">Топ</string>
      <string name="filter_comment_new">Последние</string>
      <string name="filter_default">По умолчанию</string>
      <string name="filter_is_null">Совпадений не найдено</string>
-     <string name="filter_only_discount">Спец.предложения</string>
+     <string name="filter_only_discount">Со скидкой</string>
      <string name="filter_only_onsale">В наличии</string>
-     <string name="filter_price">*Цена</string>
-     <string name="filter_time">новинки</string>
+     <string name="filter_price">Цене</string>
+     <string name="filter_time">Новое</string>
      <string name="find_password_on_web_msg">Посетите account.xiaomi.com для восстановления пароля</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
      <string name="from_site_app">来自：мобильный Mi Mall</string>
@@ -627,18 +627,18 @@
      <string name="order_error_prompt">Услуга не доступна, повторите попытку позже</string>
      <string name="order_express_empty">Данные о доставке не найдены, проверьте позже.</string>
      <string name="order_express_info">Доставка:</string>
-     <string name="order_express_list_empty">您没有在途的商品</string>
-     <string name="order_express_sn_label">Трек-номер</string>
+     <string name="order_express_list_empty">У вас нет закаазов в пути</string>
+     <string name="order_express_sn_label">Трек: </string>
      <string name="order_fee_subtotal_text">Сумма заказа: %1$s元  Скидки: %2$s元  Стоимость доставки: %3$s元</string>
      <string name="order_information">Информация о заказе</string>
      <string name="order_invoice_download">*скачать</string>
      <string name="order_invoice_title">Тип счета:</string>
      <string name="order_invoice_type_name">Счёт-фактура:</string>
      <string name="order_list_empty">У вас нет заказов этого типа</string>
-     <string name="order_list_fee">Стоимость:</string>
+     <string name="order_list_fee">Сумма заказа*: </string>
      <string name="order_list_rmb_word">元</string>
      <string name="order_list_rmb_yuan">元</string>
-     <string name="order_list_status">Статус:</string>
+     <string name="order_list_status">Статус заказа*: </string>
      <string name="order_list_time">Дата заказа:</string>
      <string name="order_list_time_format">yyyy-MM-dd</string>
      <string name="order_pay">Оплатить</string>
@@ -743,7 +743,7 @@
      <string name="price_range_lable">价格：</string>
      <string name="price_sale">%1$s元</string>
      <string name="privacy_policy">隐私政策</string>
-     <string name="product_detail">Характеристика товара</string>
+     <string name="product_detail">Подробности описание</string>
      <string name="product_detail_comment_str_empty">商品评价(暂无，立即购买有机会成为第一个评价用户)</string>
      <string name="product_detail_comment_str_template">商品评价(%1$d人,五星评价率%2$s%%)</string>
      <string name="product_favorite_dialog_cancel_btn_text">取消</string>
@@ -752,7 +752,7 @@
      <string name="product_favorite_dialog_title_add">收藏此商品</string>
      <string name="product_favorite_push_dialog_content">检测到您当前未打开消息通知，将会无法收到我们发送的优惠信息。</string>
      <string name="product_favorite_push_dialog_ensure_btn_text">去设置</string>
-     <string name="product_info">Основные позиции заказ</string>
+     <string name="product_info">Основные позиции в заказе</string>
      <string name="product_questions">Вопросы о продукте</string>
      <string name="product_shopping_cart">Корзина</string>
      <string name="publish_progress_message">发布中...</string>
@@ -808,7 +808,7 @@
      <string name="quick_pay_title">快捷支付</string>
      <string name="quick_pay_use_new">使用新的银行卡</string>
      <string name="quick_pay_vcode_tips">短信验证码不能为空</string>
-     <string name="qzone">QQ空间</string>
+     <string name="qzone">QQ Message</string>
      <string name="re_get_verify_code">重新获取</string>
      <string name="re_register">重新注册</string>
      <string name="re_reserve">请重新申请</string>
@@ -904,7 +904,7 @@
      <string name="review_arrive_time">Время получения:</string>
      <string name="review_list_empty">Товаров, нуждающихся в оценке и отзывах, не найдено</string>
      <string name="review_listitem_date_format" formatted="false">%Y-%m-%d</string>
-     <string name="review_sell_price">Стоимость:%s元</string>
+     <string name="review_sell_price">*Цена: %s元</string>
      <string name="review_submit">Отзыв</string>
      <string name="rmb">%1$s元</string>
      <string name="rmb_identification">%1$s元</string>
@@ -968,7 +968,7 @@
      <string name="share">分享</string>
      <string name="share_fail_image_loading">图片下载中，请稍后再试</string>
      <string name="share_progress_title">图片加载中...</string>
-     <string name="share_title">Рассказать</string>
+     <string name="share_title">Поделиться</string>
      <string name="shipment_desc">（%s）</string>
      <string name="shop">Топ</string>
      <string name="shopping_act">Ваша скидка</string>
@@ -1090,7 +1090,7 @@
      <string name="view_detail">Смотреть подробности</string>
      <string name="wb_share_text">%1$s %2$s #小米商城有好货#</string>
      <string name="web_choose_file">Выберите файл для загрузки</string>
-     <string name="weibo">新浪微博</string>
+     <string name="weibo">Weibo</string>
      <string name="weibo_share_fail">网络状况不佳，分享失败，请稍后再试</string>
      <string name="welcome_mihome">欢迎光临小米之家</string>
      <string name="welcome_mihome_activity">查看预约信息及米家活动</string>
@@ -1108,8 +1108,8 @@
      <string name="wrong_captcha">图片验证码错误</string>
      <string name="wrong_phone_number_format">手机号码格式错误</string>
      <string name="wrong_vcode">验证码错误</string>
-     <string name="wx">微信好友</string>
+     <string name="wx">Блоги</string>
      <string name="wx_share_invite_friend_title">邀请好友一起拼单</string>
      <string name="wx_share_title">快来看看这个怎么样？</string>
-     <string name="wx_timeline">朋友圈</string>
+     <string name="wx_timeline">Друзья</string>
 </resources>
