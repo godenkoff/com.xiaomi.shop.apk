@@ -70,7 +70,7 @@
      <string name="act_reduction">[Общ.скидка]</string>
      <string name="activities">活动</string>
      <string name="activity_enter_home">На главную</string>
-     <string name="adapt_phone">Подходит для:</string>
+     <string name="adapt_phone">Совместимость:</string>
      <string name="add_address">Новый адрес доставки</string>
      <string name="add_address_hint_contact_function">Ввести имя или выбрать из контактов</string>
      <string name="add_address_hint_location_function">Ввести адрес или найти местоположение по GPS</string>
@@ -745,7 +745,7 @@
      <string name="privacy_policy">隐私政策</string>
      <string name="product_detail">Подробное описание</string>
      <string name="product_detail_comment_str_empty">商品评价(暂无，立即购买有机会成为第一个评价用户)</string>
-     <string name="product_detail_comment_str_template">Отзывы (%1$dчел., 5 звёзд %2$s%%)</string>
+     <string name="product_detail_comment_str_template">Отзывы (%1$d чел., 5 звёзд - %2$s%%)</string>
      <string name="product_favorite_dialog_cancel_btn_text">取消</string>
      <string name="product_favorite_dialog_content_add">当您收藏的商品可以购买或有惊喜优惠活动时，我们会提前发通知给您。</string>
      <string name="product_favorite_dialog_ensure_btn_text">收藏</string>
@@ -904,7 +904,7 @@
      <string name="review_arrive_time">Время получения:</string>
      <string name="review_list_empty">Товаров, нуждающихся в оценке и отзывах, не найдено</string>
      <string name="review_listitem_date_format" formatted="false">%Y-%m-%d</string>
-     <string name="review_sell_price">*Цена: %s元</string>
+     <string name="review_sell_price">Цена: %s元</string>
      <string name="review_submit">Отзыв</string>
      <string name="rmb">%1$s元</string>
      <string name="rmb_identification">%1$s元</string>
