@@ -973,7 +973,7 @@
      <string name="shop">Топ</string>
      <string name="shopping_act">Ваша скидка</string>
      <string name="shopping_add_supply_exception">Добавить в заметки/添加加价购异常</string>
-     <string name="shopping_button_checkout">Оформление заказа</string>
+     <string name="shopping_button_checkout">Оформить заказ</string>
      <string name="shopping_cartlist_ask_delete">Вы действительно хотите удалить этот пункт?</string>
      <string name="shopping_cartlist_is_empty">Ваша корзина пуста, перейдите к выбору товаров</string>
      <string name="shopping_cartlist_is_empty_button_title">Перейти</string>
@@ -1025,7 +1025,7 @@
      <string name="tips_miphone_sales_record_uniq_null">S/N或MEID不可为空</string>
      <string name="tips_miphone_sales_record_vcode_null">验证码不可为空</string>
      <string name="tips_modified">Имеются несохраненные данные. Вы уверены, что хотите выйти?</string>
-     <string name="title_checkout">Оформить</string>
+     <string name="title_checkout">Оформление заказа</string>
      <string name="title_login">Авторизация в Mi Аккаунте</string>
      <string name="title_online_payment">Выберите способ оплаты</string>
      <string name="title_reg">Регистрация Mi Аккаунта</string>
