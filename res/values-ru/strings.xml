@@ -304,14 +304,14 @@
      <string name="festival_forward_message">Поделитесь скриншотом (кнопка меню + громкость вниз) с друзьями</string>
      <string name="festival_launch_mishop">Перейти в Mi Mall</string>
      <string name="filter">Фильтр</string>
-     <string name="filter_comment">Top</string>
+     <string name="filter_comment">Топ</string>
      <string name="filter_comment_new">New</string>
      <string name="filter_default">По умол-ю</string>
      <string name="filter_is_null">Совпадений не найдено</string>
      <string name="filter_only_discount">Со скидкой</string>
      <string name="filter_only_onsale">В наличии</string>
      <string name="filter_price">Цена</string>
-     <string name="filter_time">Новое</string>
+     <string name="filter_time">Новые</string>
      <string name="find_password_on_web_msg">Посетите account.xiaomi.com для восстановления пароля</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
      <string name="from_site_app">Через: приложение Mi Mall</string>
@@ -900,7 +900,7 @@
      <string name="reserve_type_text">Услуги</string>
      <string name="reserve_username_text1">Фамилия</string>
      <string name="reserve_username_text2">Имя</string>
-     <string name="results">Результат</string>
+     <string name="results"> найдено</string>
      <string name="review_arrive_time">Время получения:</string>
      <string name="review_list_empty">Товаров, нуждающихся в оценке и отзывах, не найдено</string>
      <string name="review_listitem_date_format" formatted="false">%Y-%m-%d</string>
