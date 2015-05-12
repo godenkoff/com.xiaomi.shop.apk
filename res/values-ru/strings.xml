@@ -808,7 +808,7 @@
      <string name="quick_pay_title">快捷支付</string>
      <string name="quick_pay_use_new">使用新的银行卡</string>
      <string name="quick_pay_vcode_tips">短信验证码不能为空</string>
-     <string name="qzone">QQ Message</string>
+     <string name="qzone">QQ</string>
      <string name="re_get_verify_code">重新获取</string>
      <string name="re_register">重新注册</string>
      <string name="re_reserve">请重新申请</string>
