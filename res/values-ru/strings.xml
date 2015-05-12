@@ -627,7 +627,7 @@
      <string name="order_error_prompt">Услуга не доступна, повторите попытку позже</string>
      <string name="order_express_empty">Данные о доставке не найдены, проверьте позже.</string>
      <string name="order_express_info">Доставка:</string>
-     <string name="order_express_list_empty">У вас нет закаазов в пути</string>
+     <string name="order_express_list_empty">У вас нет заказов в пути</string>
      <string name="order_express_sn_label">Трек: </string>
      <string name="order_fee_subtotal_text">Сумма заказа: %1$s元  Скидки: %2$s元  Стоимость доставки: %3$s元</string>
      <string name="order_information">Информация о заказе</string>
@@ -977,8 +977,8 @@
      <string name="shopping_cartlist_ask_delete">Вы действительно хотите удалить этот пункт?</string>
      <string name="shopping_cartlist_is_empty">Ваша корзина пуста, перейдите к выбору товаров</string>
      <string name="shopping_cartlist_is_empty_button_title">Перейти</string>
-     <string name="shopping_cartlist_text_bottom_template">Итого:%1$s元</string>
-     <string name="shopping_cartlist_text_count">Кол-во:</string>
+     <string name="shopping_cartlist_text_bottom_template">Сумма: %1$s元</string>
+     <string name="shopping_cartlist_text_count">Кол-во: </string>
      <string name="shopping_cartlist_text_single_price">Цена: %1$s元</string>
      <string name="shopping_cartlist_title">Список покупок</string>
      <string name="shopping_incast">凑单</string>
