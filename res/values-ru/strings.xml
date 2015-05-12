@@ -656,8 +656,8 @@
      <string name="order_submit_coupon_discount">Купон</string>
      <string name="order_submit_exception_send_data">Не удалось отправить данные</string>
      <string name="order_submit_pay_yuan">Итого: %1$s元</string>
-     <string name="order_submit_product_money">Стоимость</string>
-     <string name="order_submit_shipment">Доставка</string>
+     <string name="order_submit_product_money">Стоимость:</string>
+     <string name="order_submit_shipment">Доставка:</string>
      <string name="order_table_payment">Информация о платеже</string>
      <string name="order_table_unpayment">Заказ размещён. Оплатите его.</string>
      <string name="order_view_address">"%1$s %2$s %3$s %4$s %5$s %6$s"</string>
