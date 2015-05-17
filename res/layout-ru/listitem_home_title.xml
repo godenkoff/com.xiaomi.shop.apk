@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/listitem_home_title_rootview" android:background="@drawable/selector_home_theme_listitem" android:paddingLeft="@dimen/v6_common_listitem_padding" android:paddingRight="@dimen/v6_common_listitem_padding" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.xiaomi.shop.widget.EasyTextView android:textSize="15.0sp" android:textColor="#ff2b2b2b" android:id="@id/listitem_home_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Топ продаж" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:layout_centerVertical="true" />
+    <com.xiaomi.shop.widget.EasyTextView android:textSize="15.0sp" android:textColor="#ffb2b2b2" android:id="@id/listitem_home_more" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/more" android:maxLines="1" android:singleLine="true" android:drawableRight="@drawable/arrow_right_normal" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>
