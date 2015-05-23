@@ -75,7 +75,7 @@
      <string name="add_address_hint_contact_function">Ввести имя или выбрать из контактов</string>
      <string name="add_address_hint_location_function">Ввести адрес или найти местоположение по GPS</string>
      <string name="add_address_location_details">Улица：</string>
-     <string name="add_phone_title">Заполните номер пополнения</string>
+     <string name="add_phone_title">Введите номер для пополнения</string>
      <string name="add_shopping_cart">В корзину</string>
      <string name="add_shopping_cart_fail">Не удалось добавить в корзину*</string>
      <string name="add_submit">Подтвердить/</string>
@@ -125,9 +125,9 @@
      <string name="cancel">Назад</string>
      <string name="cancel_update">Отмена</string>
      <string name="captcha">Провер.код</string>
-     <string name="carrier_mobile">移动</string>
-     <string name="carrier_telecom">电信</string>
-     <string name="carrier_unicom">联通</string>
+     <string name="carrier_mobile">China Mobile</string>
+     <string name="carrier_telecom">China Telecom</string>
+     <string name="carrier_unicom">China Unicom</string>
      <string name="cartitem_title_bargin_template">[Стоимость покупки]%1$s</string>
      <string name="category">Товары</string>
      <string name="category_default_name">Категории</string>
@@ -322,7 +322,7 @@
      <string name="hint_address_zipcode">6 цифр</string>
      <string name="hint_gotocart_togetherbuy">С этим товаром часто покупают</string>
      <string name="history">История</string>
-     <string name="home_footer_feedback_text">Консультация по проблеме</string>
+     <string name="home_footer_feedback_text">Консультации по приложению</string>
      <string name="home_footer_text">Посмотреть больше товаров</string>
      <string name="home_full_screen_appear_summary">Вы используете мобильную интернет. При просмотре полноэкранных изображений увеличивается потребление мобильного трафика и расходы по его использование. Рекомендуем подключится по Wi-Fi</string>
      <string name="home_full_screen_appear_title">Режим во весь экран</string>
@@ -709,7 +709,7 @@
      <string name="percent_sign">%</string>
      <string name="person">чел.</string>
      <string name="phone_error_prompt">请输入正确的手机号码</string>
-     <string name="phone_number_default">支持移动、联通、电信</string>
+     <string name="phone_number_default">Операторы: China Mobile, Unicom, Telecom</string>
      <string name="photo_lib_can_not_select_any_more">最多可选择%d张照片哦</string>
      <string name="photo_lib_must_select">你还没有选择照片哦</string>
      <string name="photo_lib_no_image">无照片</string>
@@ -734,7 +734,7 @@
      <string name="pref_title_version">ver.：%s</string>
      <string name="prev">Назад</string>
      <string name="price_range">%1$s-%2$s</string>
-     <string name="price_range_lable">*Цена：</string>
+     <string name="price_range_lable">Сумма пополнения：</string>
      <string name="price_sale">%1$s元</string>
      <string name="privacy_policy">Политика конфиденциальности</string>
      <string name="product_detail">Подробное описание</string>
@@ -816,12 +816,12 @@
      <string name="recharge_n7">本充值不提供话费发票，用户可以在每月使用后，到当地营业厅根据实际使用情况开具相应发票。</string>
      <string name="recharge_name_title">*Предоплаченные услуги：%s</string>
      <string name="recharge_no_login">充值前请先登录</string>
-     <string name="recharge_notice">充值注意事项</string>
+     <string name="recharge_notice">*Примечания</string>
      <string name="recharge_now">Пополнить</string>
      <string name="recharge_number_title">Номер：%s</string>
      <string name="recharge_sell_price">Сумма：%s元</string>
      <string name="recharge_status_info">Статус：%s</string>
-     <string name="recharge_title">话费充值</string>
+     <string name="recharge_title">Пополнение баланса</string>
      <string name="recharge_wait_to_pay_time_info">30分钟以内</string>
      <string name="recommend_package_label">Наборы включающие этот товар：</string>
      <string name="recommend_related_label">С этим товаром часто покупают：</string>
@@ -944,7 +944,7 @@
      <string name="shake_fail_3_second">调整策略，休息下，平常心最重要</string>
      <string name="shake_hint1">Встряхните телефон</string>
      <string name="shake_hint2">И получите сюрприз))</string>
-     <string name="shake_history_item_desc">Спец.цена：%1$s元\u0009Обычная*：%2$s元</string>
+     <string name="shake_history_item_desc">Спец.цена：%1$s元\u0009Обычно*：%2$s元</string>
      <string name="shake_loading">Загружаем...</string>
      <string name="shake_month">%1$s月</string>
      <string name="shake_my_empty">"暂时没有摇中奖品您参与过%1$s次，不如%2$s人勤奋，再接再厉。"</string>
