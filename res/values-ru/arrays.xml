@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="mihome_reserve_week">
-        <item>ВС</item>
-        <item>ПН</item>
-        <item>ВТ</item>
-        <item>СР</item>
-        <item>ЧЕ</item>
-        <item>ПТ</item>
-        <item>СБ</item>
+        <item>Вс.</item>
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
      </string-array>
 </resources>
