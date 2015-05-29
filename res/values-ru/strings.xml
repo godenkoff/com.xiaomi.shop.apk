@@ -122,7 +122,7 @@
      <string name="button_cancel">Отмена+</string>
      <string name="buy_insurance">Купить страховку</string>
      <string name="can_buy_max_count">Кол-во</string>
-     <string name="cancel">Назад</string>
+     <string name="cancel">Нет</string>
      <string name="cancel_update">Отмена</string>
      <string name="captcha">Провер.код</string>
      <string name="carrier_mobile">China Mobile</string>
@@ -234,10 +234,10 @@
      <string name="del_favorite">Отменить избранное</string>
      <string name="deliver_title_info">Счет-фактура %s</string>
      <string name="deliver_view_orderid">Номер заказа：%s</string>
-     <string name="dialog_ask_cancel">*Отмена</string>
-     <string name="dialog_ask_delete">Выйти</string>
+     <string name="dialog_ask_cancel">Нет</string>
+     <string name="dialog_ask_delete">Да</string>
      <string name="dialog_ask_ok">OK</string>
-     <string name="dialog_ask_quit">Выйти</string>
+     <string name="dialog_ask_quit">Да</string>
      <string name="doing_add_shopping_cart">Добавляем...</string>
      <string name="download_failed_id" />
      <string name="download_failed_tips">Посмотреть</string>
@@ -308,8 +308,8 @@
      <string name="filter_time">Новые</string>
      <string name="find_password_on_web_msg">Посетите account.xiaomi.com для восстановления пароля</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
-     <string name="from_site_app">Через：приложение Mi Mall</string>
-     <string name="from_site_web">Через：сайт mi.com </string>
+     <string name="from_site_app">Отзыв из приложения Mi Mall</string>
+     <string name="from_site_web">Отзыв с сайта mi.com </string>
      <string name="get_back_pwd">Восстановить пароль к аккаунту</string>
      <string name="get_verify_code">Получить проверочный код</string>
      <string name="getting_verify_code">Получение проверочного кода</string>
@@ -388,7 +388,7 @@
      <string name="login_notice">Пожалуйста подождите...</string>
      <string name="login_retry">Повторить</string>
      <string name="login_system_failed">Войти в систему не удалось, попробуйте ещё раз!</string>
-     <string name="logout_summary">Выйти из аккаунта?</string>
+     <string name="logout_summary">Выйти хотите из аккаунта?</string>
      <string name="logout_title">Выход из аккаунта</string>
      <string name="lottery_no_login">参加活动前，请先登录</string>
      <string name="mahjong_message">打麻将，唠家常，开开心心过大年</string>
@@ -965,7 +965,7 @@
      <string name="shopping_act">Ваша скидка</string>
      <string name="shopping_add_supply_exception">Добавить в заметки/添加加价购异常</string>
      <string name="shopping_button_checkout">Заказать</string>
-     <string name="shopping_cartlist_ask_delete">Вы действительно хотите удалить этот пункт?</string>
+     <string name="shopping_cartlist_ask_delete">Удалить этот пункт из заказа?</string>
      <string name="shopping_cartlist_is_empty">Ваша корзина пуста, перейдите к выбору товаров</string>
      <string name="shopping_cartlist_is_empty_button_title">В магазин</string>
      <string name="shopping_cartlist_text_bottom_template">Сумма：%1$s元</string>
