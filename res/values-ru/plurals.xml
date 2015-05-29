@@ -5,6 +5,6 @@
         <item quantity="one">завтра</item>
     </plurals>
     <plurals name="xx_people_reviewed">
-        <item quantity="other">%d отзывов</item>
+        <item quantity="other">Всего оценок (%d)</item>
     </plurals>
 </resources>
