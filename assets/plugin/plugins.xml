@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+    <plugin
+        id="101111"
+        md5="675279f147a4e79f1230f56070a5d237"
+        path="plugin/mishopShake.apk"
+        root="com.xiaomi.shop.plugin.shake.ui.RootFragment"
+        size="258000"
+        version="11.0" >
+    </plugin>
+
+</plugin>
